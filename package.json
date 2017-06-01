@@ -1,0 +1,16 @@
+{
+  "name": "graph.view",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "ngraph.generators": "0.0.17",
+    "ngraph.offline.layout": "^1.1.1",
+    "ngraph.tobinary": "^1.0.1"
+  }
+}
